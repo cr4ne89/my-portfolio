@@ -49,7 +49,7 @@ const IndexPage = () => (
         <a target='_blank' rel='noopener' href='https://www.instagram.com/trrrrok89/'>
           <FontAwesomeIcon icon={['fab', 'instagram']} size='2x'/>
         </a>
-        <a target='_blank' rel='noopener' href='https://twitter.com/trrrrok89/'>
+        <a target='_blank' rel='noopener' href='/'>
           <FontAwesomeIcon icon={['fab', 'twitter']} size='2x'/>
         </a>
         <a target='_blank' rel='noopener' href='https://www.facebook.com/yusuke.tsuruoka.75'>
