@@ -11,7 +11,7 @@ library.add(fab)
 
 const IndexPage = () => (
   <Layout>
-    <SEO title='Home' />
+    <SEO title='Portfolio'/>
     <Cover>
       <Image filename='DSCF1136' alt='cover'/>
     </Cover>
